@@ -11,18 +11,18 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: rgb(218, 128, 11);
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #5a3403ce;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(153, 128, 147);
     overflow: auto;
 }
 
